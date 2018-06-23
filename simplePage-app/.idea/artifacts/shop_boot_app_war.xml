@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="shop-boot-app:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="shop-boot-app-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="shop-boot-app:war exploded" />
+    </root>
+  </artifact>
+</component>
